@@ -1,0 +1,4 @@
+[build]
+  base = "capstoneproject/frontend"
+  command = "npm run build"
+  publish = "build"
